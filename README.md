@@ -7,6 +7,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green)
 ![Commercial Analysis](https://img.shields.io/badge/Analytics-Commercial%20Analysis-purple)
 
+
 ## Project Overview
 
 This end-to-end data analytics project combines PostgreSQL and Microsoft Power BI to investigate the sales performance of a fictional pizza restaurant.
@@ -18,6 +19,10 @@ The project demonstrates the complete analytical workflow, from relational datab
 The objective is to provide restaurant management with meaningful insights that could support operational efficiency, menu optimisation, resource allocation and revenue performance.
 
 ## Dashboard Preview
+
+### Product Performance Dashboard
+
+![Product Performance Dashboard](Product_Performance.png)
 
 ![Pizza Sales Analysis Dashboard](Dashboard_Preview.png)
 
